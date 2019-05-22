@@ -4,7 +4,8 @@
   "description": "Social network for developers",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node server",
+    "server":"nodemon server"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.10",
+    "nodemon": "^1.19.0",
     "request": "^2.88.0"
   }
 }
