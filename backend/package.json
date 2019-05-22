@@ -1,0 +1,19 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "Social network for developers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalan318/MERN-Application.git"
+  },
+  "author": "Arsalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalan318/MERN-Application/issues"
+  },
+  "homepage": "https://github.com/arsalan318/MERN-Application#readme"
+}
