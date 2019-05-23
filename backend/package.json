@@ -4,8 +4,7 @@
   "description": "Social network for developers",
   "main": "server.js",
   "scripts": {
-    "test": "node server",
-    "server":"nodemon server"
+    "start":"nodemon server"
   },
   "repository": {
     "type": "git",
