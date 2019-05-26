@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb://testuser:a1b2c3d4@ds215380.mlab.com:15380/auth_test",
-  "jwtToken": "mysecrettoken"
+  "jwtToken": "mysecrettoken",
+  "githubClientId": "488164c357375b2e77b4",
+  "gitHubSecret": "8d0904c9d0437d8cf92112c71671dcdeff8c1b59"
 }
