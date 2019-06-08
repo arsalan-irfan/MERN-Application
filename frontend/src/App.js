@@ -15,7 +15,6 @@ import { loadUser } from './actions/auth';
 //Redux
 import { Provider } from 'react-redux';
 import store from './store';
-import dashboard from './components/dashboard/dashboard';
 
 if (localStorage.token) {
   setAuthToken(localStorage.token);
