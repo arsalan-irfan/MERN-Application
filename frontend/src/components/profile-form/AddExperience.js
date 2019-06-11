@@ -94,6 +94,7 @@ const AddExperience = ({ addExperience, history }) => {
             value={to}
             onChange={e => onChange(e)}
             disabled={current}
+            required={!current}
           />
         </div>
         <div className='form-group'>
