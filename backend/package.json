@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/arsalan318/MERN-Application#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "config": "^3.1.0",
     "express": "^4.17.0",
     "express-validator": "^5.3.1",
